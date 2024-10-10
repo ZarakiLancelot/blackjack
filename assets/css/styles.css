@@ -1,0 +1,25 @@
+html, body {
+  background-color: #2F4F30;
+  color: #FFF;
+  margin: 0;
+}
+
+.title {
+  background-color: black;
+  color: #FFF;
+  font-size: 25px;
+  padding: 20px;
+  text-align: center;
+}
+
+.card-deck {
+  left: 100px;
+  margin-left: -75px;
+  position: relative;
+  width: 150px;
+}
+
+#cards-player, #cards-dealer {
+  height: 250px;
+  position: relative;
+}
